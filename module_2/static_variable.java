@@ -20,7 +20,7 @@ public class static_variable {
         Student s1 = new Student("Rohan");
         Student s2 = new Student("Smitha");
         Student s3 = new Student("Amit");
-        Student s4 = new Student("Abel");
+        Student s4 = new Student("Amit");
 
         // Accessing the instance variable requires the specific object name
         System.out.println("First student's name: " + s1.name); // Outputs: Rohan
