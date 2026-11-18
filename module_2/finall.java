@@ -2,7 +2,7 @@ package module_2;
 class fianal{
     final int i = 3;
     void change(){
-        i=23;//cannot change this value
+//        i=23;//cannot change this value
     }
 
 
