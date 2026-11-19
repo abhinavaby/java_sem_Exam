@@ -10,7 +10,7 @@ public class swing7 {
         JTextField t2=new JTextField();
         JTextField t3=new JTextField();
         jf.setLayout(new GridLayout(2,1));
-        jf.add(t1);
+        jf.add(t1);     
         jf.add(t2);
         jf.add(t3);
         jf.setSize(400,400);
